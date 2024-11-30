@@ -1,0 +1,4 @@
+pandas ==2.2.3
+streamlit
+OS
+openpyxl==3.1.5

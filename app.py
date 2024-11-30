@@ -97,7 +97,7 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-st.image("D:\multipage\Saham Kuantitatif.jpg", use_column_width=True)
+st.image("Saham Kuantitatif.jpg", use_column_width=True)
 st.markdown(
     """
         <p>

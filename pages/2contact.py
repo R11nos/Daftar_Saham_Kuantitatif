@@ -40,7 +40,7 @@ if submit_button:
         
         # Tampilkan pesan sukses
         st.success(f"Terima kasih {nama} telah mendaftar!")
-        st.write("Biaya pendaftaran: Rp 350,000 (Harga Promo)")
+        st.write("Biaya pendaftaran: Rp 250,000 (Harga Promo)")
         st.write("Rekening Mandiri: 1170006154728 a/n Rio Reynaldo Tanos")
         st.write("Kirim bukti transfer ke Nomor WA Admin: 081299398708")
         st.write("Setelah transfer, Link Aplikasi akan diberikan melalui WA")
